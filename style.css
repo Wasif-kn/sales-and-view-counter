@@ -1,0 +1,60 @@
+#sales-booster-forms .live_views_form,
+#sales-booster-forms .sales_count_form {
+    max-width: 600px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+#sales-booster-forms h2 {
+    color: #333;
+    text-align: center;
+}
+#sales-booster-forms h4 {
+    color: #555;
+}
+#sales-booster-forms label {
+    display: block;
+    margin: 10px 0 5px;
+    color: #333;
+}
+#sales-booster-forms input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+#sales-booster-forms input.btn {
+    background-color: #232323;
+    color: #fff;
+    cursor: pointer;
+}
+#sales-booster-forms input.btn:hover {
+    background-color: #371d6a;
+}
+#sales-booster .dashicons:before {
+    position: relative;
+    top: 5;
+}
+.sales-booster-css{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: flex-start;
+}
+.galactic_watch_count{
+    font-family: Lato, sans-serif;
+    font-size: 16px;
+    line-height: 1.7;
+    font-weight: 500;
+    color: #323232;
+}
+
+.icon-css
+{
+	display: inline-block;
+    width: 27px !important;
+}
